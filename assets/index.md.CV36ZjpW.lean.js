@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,aG as e}from"./chunks/framework.DytOxJW6.js";const g=JSON.parse('{"title":"AXP Dev Docs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"};function n(r,s,o,h,p,d){return t(),i("div",null,s[0]||(s[0]=[e("",100)]))}const k=a(l,[["render",n]]);export{g as __pageData,k as default};
