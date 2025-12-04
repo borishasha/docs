@@ -1,1 +1,0 @@
-import{_ as i,c as s,o as t,aG as e}from"./chunks/framework.CrOSaJJH.js";const k=JSON.parse('{"title":"AXP Dev Docs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"};function n(r,a,h,o,p,g){return t(),s("div",null,a[0]||(a[0]=[e("",100)]))}const u=i(l,[["render",n]]);export{k as __pageData,u as default};
